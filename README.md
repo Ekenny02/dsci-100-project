@@ -4,3 +4,4 @@ Template project repository for DSCI-100
 Ethan Kenny
 Marc Shi 
 Tiffani Jung
+Jaide Velji
